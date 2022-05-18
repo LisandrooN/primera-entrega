@@ -1,0 +1,237 @@
+.header {
+
+    background-color: dodgerblue;
+
+    display: flex; 
+
+
+
+}
+
+.title {
+
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+    color: aliceblue;
+
+    display: inline;
+
+    margin-left: 15em
+
+}
+
+.download {
+
+    margin-top: 15px;
+
+    background-color: fuchsia;
+
+    display: block;
+
+    align-items: flex-end;
+
+    border-radius: 30px;
+
+    height: 30px;
+
+    width: 100px;
+
+    border-color: dodgerblue;
+
+    color: aliceblue; 
+
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+}
+
+.navbar {
+
+    display: block;
+
+    align-items: center;
+
+    color: aliceblue;
+
+    margin-top: 20px;
+
+    padding-left: 150px;
+
+    padding-right: 150px;
+
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+    font-size: smaller;
+
+}
+
+.navbar :hover {
+
+    background-color: #78a4eb;
+
+}
+
+.profilephoto {
+
+    margin-top: 70px;
+
+    width: 100px;
+
+    display: flex;
+
+    border-radius: 100px;
+
+    margin-left: 45%;
+
+    margin-bottom: 50px;
+
+}
+
+.text {
+
+    margin-left: 20rem;
+
+    margin-right: 20rem;
+
+    text-align: center;
+
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+}
+
+#school {
+
+    text-align: left;
+
+}
+
+#colegio {
+
+    display:inline;
+
+    background-color: green;
+
+    color: white;
+
+    width: 50px;
+
+    border-radius: 10px;
+
+    font-size: x-small;
+
+}
+
+#education {
+
+    font-size: smaller;
+
+}
+
+#description {
+
+    font-size: larger;
+
+}
+
+.hireme {
+
+    margin-left: 39rem;
+
+    display: block;
+
+    height: 30px;
+
+    width: 70px;
+
+    background-color: white;
+
+    border-color: dodgerblue;
+
+    border-radius: 15px;
+
+    color: dodgerblue;
+
+}
+
+.logo {
+
+    width: 15px;
+
+    text-align: left;
+
+    display: flex;
+
+    float: left;
+
+}
+
+.twitterlogo {
+
+    width: 30px;
+
+    
+
+}
+
+.instagramlogo {
+
+    width: 30px;
+
+    margin-left: 48%;
+
+}
+
+.grid {
+
+    display: grid;
+
+    grid-template-columns:25% 25% 25% 25%;
+
+    text-align: center;
+
+    padding-left: 35%;
+
+    gap: 15px;
+
+}
+
+.skills {
+
+    text-align: left;
+
+    padding-left: 10px;
+
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+}
+
+#calendar {
+
+    width: 25px;
+
+}
+
+.contact {
+
+    padding-left: 10px;
+
+    vertical-align: baseline;
+
+    text-align: left;
+
+    width: 25rem;
+
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+}
+
+.linea {
+
+    border-top: grey;
+
+    height: 2px;
+
+    max-width: 200px;
+
+    margin
+
+}
